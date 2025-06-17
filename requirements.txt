@@ -1,2 +1,2 @@
-python-telegram-bot==20.3
-ffmpeg-python
+python-telegram-bot>=20.0
+pyminizip
